@@ -1,0 +1,6 @@
+#Sat Apr 18 14:12:32 KST 2026
+LIGHT_SHAFT=false
+SHADOW_COLOR=false
+TAA=false
+shadowDistance=192.0
+shadowMapResolution=1536
